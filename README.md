@@ -2,7 +2,12 @@
 
 Gab Crawler Written by Jun Yen Leung
 
-DESCRIPTION: Crawls and steals Gab network. Pushes to a database.
+DESCRIPTION: Crawls Gab network. Pushes to a database.
+Scrapes posts, users, follower/followees, metadata, etc. You can basically recreate a representation of the Gab network.
+
+WHAT IS GAB?
+
+Gab.ai is an "alt-right racist social network", in the words of the person who asked for this crawler. From this you can infer what type of research the data will be used for.
 
 INSTRUCTIONS:
 
@@ -21,5 +26,5 @@ SO WHAT ARE ALL THESE WEIRD OTHER FILES?
 NOTES: 
    
    The code has not been cleaned up. It works, but it's hard as hell to read. Will be updated once I have time to refactor.  
-   You can run multiples of this crawler so long as they all have access to the same database. You'll get a little bit of duplication but no biggie. Be sure to change the crawl's starting point (it should be a user).
+   You can run multiples of this crawler so long as they all have access to the same database. You might get a little bit of duplication but no biggie. Be sure to change the crawl's starting point (it should be a user).
    
