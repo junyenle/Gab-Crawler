@@ -1,8 +1,10 @@
 
 
-Gab Crawler Written by Jun Yen Leung
+# Gab Crawler Written by Jun Yen Leung
 
-DESCRIPTION: Crawls Gab network. Pushes to a database.
+DESCRIPTION: 
+
+Crawls Gab network. Pushes to a database.
 Scrapes posts, users, follower/followees, metadata, etc. You can basically recreate a representation of the Gab network.
 
 WHAT IS GAB?
